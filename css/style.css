@@ -128,7 +128,7 @@ button {
     padding: 10px 0 5px;
   }
   .about .title p {
-    width: 300px;
+    width: 300px !important;
   }
 }
 header .title1 {
