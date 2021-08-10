@@ -127,6 +127,9 @@ button {
   footer .container p {
     padding: 10px 0 5px;
   }
+  .about .title p {
+    width: 300px;
+  }
 }
 header .title1 {
   margin: 0 auto;
